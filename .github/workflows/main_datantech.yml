@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'datantech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA3F061DDD2545F58957FBB98D6EF441 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_788A6E5EAF8E4D91AA2A39A3BC82648F }}
           package: .
